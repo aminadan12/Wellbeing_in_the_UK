@@ -1,1 +1,4 @@
-# Wellbeing_in_the_UK
+# Analysing Wellbeing in the UK
+This project explores local authority wellbeing using four Office for National Statistics (ONS) indicators: anxiety, happiness, life satisfaction, and whether people feel the things they do in life are worthwhile. The aim is to produce a clear, decision-maker-focused analysis that allows local authorities to be compared with national averages, benchmarked against one another, and assessed over time.
+
+In line with the project brief, the notebook combines data cleaning, analysis and visualisation, with commentary throughout to explain both the technical steps taken and the meaning of the results. The steps are generally structured (where possible) to begin with the question being answered, followed by annotated code, and finally a summary of what the result/visualisation means.
